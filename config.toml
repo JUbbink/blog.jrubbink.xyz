@@ -1,0 +1,9 @@
+baseURL = 'https://blog.jrubbink.xyz/'
+languageCode = 'en-us'
+title = 'Jeroen Ubbink 🐊'
+theme = "risotto"
+
+[[menu.main]]
+  name = "About"
+  url  = "about"
+  weight = 5

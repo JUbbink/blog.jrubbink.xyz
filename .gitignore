@@ -1,0 +1,12 @@
+# Hugo
+/public/
+/resources/
+
+# Other files and folders
+.settings
+
+# Binaries
+*.swf
+*.air
+*.ipa
+*.apk
